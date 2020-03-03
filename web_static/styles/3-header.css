@@ -10,7 +10,7 @@ header {
 
 .hdr_logo {
     margin-left: 20px;
-    background-image: url('/images/logo.png');
+    background-image: url('../images/logo.png');
     background-repeat: no-repeat;
     width: 142px;
     height: 60px;
