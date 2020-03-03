@@ -82,14 +82,20 @@
 .popover h2 {
     margin-top: 25px;
     margin-bottom: 7px;
+    margin-left: -10px;;
 }
 
 .popover ul {
     list-style-type: none;
-    margin-left: -16px;
+    margin-left: -26px;
 }
 
 .popover ul li {
     list-style-type: none;
     margin-bottom: 7px;
+    margin-left: 25px;
 }
+
+/* .popover li {
+    margin-left: 25px;
+} */

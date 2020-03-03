@@ -18,7 +18,8 @@ p {
     margin: auto;
     max-width: 1000px;
     margin-top: 30px;
-    margin-bottom: 30px;
+    /* margin-bottom: 30px; */
+    margin-bottom: 100px;
 }
 
 
